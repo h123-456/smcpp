@@ -1,4 +1,4 @@
-.. image:: https://travis-ci.org/popgenmethods/smcpp.svg?branch=master 
+.. image:: https://travis-ci.org/popgenmethods/smcpp.svg ?branch=master 
     :target: https://travis-ci.org/popgenmethods/smcpp
     
 SMC++ is a program for estimating the size history of populations from
